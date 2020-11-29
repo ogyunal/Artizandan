@@ -1,0 +1,11 @@
+{
+    "Plugin Name": "Cache plugin for khana theme",
+    "Description": "Cache",
+    "Author": "Amcoders",
+    "Author URI": "https://codecanyon.net/user/amcoders",
+    "Version": 1.1,
+    "License": "GNU General Public License v2 or later",
+    "License URI": "http:\/\/www.gnu.org\/licenses\/gpl-2.0.html",
+    "Text Domain": "cache",
+    "status": "deactive"
+}
